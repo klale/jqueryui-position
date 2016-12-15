@@ -1,0 +1,19 @@
+{
+  "name": "jqueryui-position",
+  "version": "1.0.0",
+  "description": "",
+  "main": "position.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klale/jqueryui-position.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klale/jqueryui-position/issues"
+  },
+  "homepage": "https://github.com/klale/jqueryui-position#readme"
+}
